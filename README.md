@@ -1,3 +1,4 @@
+<!-- This line was added in the feature/add-comment branch for PR demo -->
 # Fibonacci Sequence Checker
 
 このプロジェクトは、与えられた数列がフィボナッチ数列かどうかを判定する関数を提供します。
